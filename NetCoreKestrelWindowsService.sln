@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreKestrelWindowsService", "NetCoreKestrelWindowsService\NetCoreKestrelWindowsService.csproj", "{EB54D981-0267-494F-B55D-9083F201435E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB54D981-0267-494F-B55D-9083F201435E}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{EB54D981-0267-494F-B55D-9083F201435E}.Debug|Any CPU.Build.0 = Debug|x64
+		{EB54D981-0267-494F-B55D-9083F201435E}.Debug|x64.ActiveCfg = Debug|x64
+		{EB54D981-0267-494F-B55D-9083F201435E}.Debug|x64.Build.0 = Debug|x64
+		{EB54D981-0267-494F-B55D-9083F201435E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB54D981-0267-494F-B55D-9083F201435E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB54D981-0267-494F-B55D-9083F201435E}.Release|x64.ActiveCfg = Release|x64
+		{EB54D981-0267-494F-B55D-9083F201435E}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68E06284-7C97-40A8-98B6-B38E5113E3B0}
+	EndGlobalSection
+EndGlobal
